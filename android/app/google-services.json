@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "685651794501",
+    "firebase_url": "https://zometo-bc04b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zometo-bc04b",
+    "storage_bucket": "zometo-bc04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685651794501:android:7afc3dc1c895ac896d212c",
+        "android_client_info": {
+          "package_name": "com.example.zometo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685651794501-qeh1rnejk98kidgne7dq4c7acoae54uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zometo",
+            "certificate_hash": "1b4c7be1293145ae757e149308cff440abffffee"
+          }
+        },
+        {
+          "client_id": "685651794501-pc5c6sdgfs7vc6e5p54t4jj1rknrhd0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnSXnrzuyEqaTPwBu8LGpQmo-l3wKQPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685651794501-pc5c6sdgfs7vc6e5p54t4jj1rknrhd0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685651794501-u22ug0veffesehjpmki2glkab12ujhb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zometo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

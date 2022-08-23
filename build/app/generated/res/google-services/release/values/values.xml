@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">685651794501-pc5c6sdgfs7vc6e5p54t4jj1rknrhd0a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://zometo-bc04b-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">685651794501</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEnSXnrzuyEqaTPwBu8LGpQmo-l3wKQPs</string>
+    <string name="google_app_id" translatable="false">1:685651794501:android:7afc3dc1c895ac896d212c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEnSXnrzuyEqaTPwBu8LGpQmo-l3wKQPs</string>
+    <string name="google_storage_bucket" translatable="false">zometo-bc04b.appspot.com</string>
+    <string name="project_id" translatable="false">zometo-bc04b</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

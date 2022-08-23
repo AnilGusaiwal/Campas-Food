@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.az.upi_india" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+6
+7    <queries>
+7-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:3:3-8:13
+8        <intent>
+8-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:4:5-7:14
+9            <action android:name="android.intent.action.VIEW" />
+9-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:5:7-59
+9-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:5:15-56
+10
+11            <data android:scheme="upi" />
+11-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:6:7-36
+11-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:6:13-33
+12        </intent>
+13    </queries>
+14    <queries>
+14-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:3:3-8:13
+15        <package android:name="com.lcode.allahabadupi" />
+15-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:10:5-54
+15-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:10:14-51
+16        <package android:name="in.amazon.mShop.android.shopping" />
+16-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:11:5-64
+16-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:11:14-61
+17        <package android:name="com.upi.axispay" />
+17-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:12:5-47
+17-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:12:14-44
+18        <package android:name="com.bankofbaroda.upi" />
+18-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:13:5-52
+18-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:13:14-49
+19        <package android:name="in.org.npci.upiapp" />
+19-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:14:5-50
+19-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:14:14-47
+20        <package android:name="com.infra.boiupi" />
+20-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:15:5-48
+20-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:15:14-45
+21        <package android:name="com.infrasofttech.centralbankupi" />
+21-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:16:5-64
+21-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:16:14-61
+22        <package android:name="in.cointab.app" />
+22-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:17:5-46
+22-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:17:14-43
+23        <package android:name="com.lcode.corpupi" />
+23-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:18:5-49
+23-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:18:14-46
+24        <package android:name="com.lcode.csbupi" />
+24-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:19:5-48
+24-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:19:14-45
+25        <package android:name="com.cub.wallet.gui" />
+25-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:20:5-50
+25-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:20:14-47
+26        <package android:name="com.dbs.in.digitalbank" />
+26-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:21:5-54
+26-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:21:14-51
+27        <package android:name="com.olive.dcb.upi" />
+27-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:22:5-49
+27-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:22:14-46
+28        <package android:name="com.equitasbank.upi" />
+28-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:23:5-51
+28-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:23:14-48
+29        <package android:name="com.finopaytech.bpayfino" />
+29-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:24:5-56
+29-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:24:14-53
+30        <package android:name="com.freecharge.android" />
+30-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:25:5-54
+30-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:25:14-51
+31        <package android:name="com.google.android.apps.nbu.paisa.user" />
+31-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:26:5-70
+31-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:26:14-67
+32        <package android:name="com.mgs.hsbcupi" />
+32-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:27:5-47
+32-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:27:14-44
+33        <package android:name="com.csam.icici.bank.imobile" />
+33-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:28:5-59
+33-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:28:14-56
+34        <package android:name="com.mgs.induspsp" />
+34-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:29:5-48
+34-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:29:14-45
+35        <package android:name="com.lcode.smartz" />
+35-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:30:5-48
+35-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:30:14-45
+36        <package android:name="com.khaalijeb.inkdrops" />
+36-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:31:5-54
+36-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:31:14-51
+37        <package android:name="com.msf.kbank.mobile" />
+37-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:32:5-52
+37-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:32:14-49
+38        <package android:name="com.infrasofttech.mahaupi" />
+38-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:33:5-57
+38-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:33:14-54
+39        <package android:name="com.mipay.in.wallet" />
+39-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:34:5-51
+39-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:34:14-48
+40        <package android:name="com.mipay.wallet.in" />
+40-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:35:5-51
+40-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:35:14-48
+41        <package android:name="com.mobikwik_new" />
+41-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:36:5-48
+41-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:36:14-45
+42        <package android:name="com.mgs.obcbank" />
+42-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:37:5-47
+42-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:37:14-44
+43        <package android:name="net.one97.paytm" />
+43-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:38:5-47
+43-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:38:14-44
+44        <package android:name="com.idbibank.paywiz" />
+44-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:39:5-51
+44-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:39:14-48
+45        <package android:name="com.enstage.wibmo.hdfc" />
+45-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:40:5-54
+45-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:40:14-51
+46        <package android:name="com.phonepe.app" />
+46-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:41:5-47
+46-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:41:14-44
+47        <package android:name="com.fss.pnbpsp" />
+47-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:42:5-46
+47-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:42:14-43
+48        <package android:name="com.mobileware.upipsb" />
+48-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:43:5-53
+48-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:43:14-50
+49        <package android:name="com.rblbank.upi" />
+49-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:44:5-47
+49-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:44:14-44
+50        <package android:name="com.realmepay.payments" />
+50-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:45:5-54
+50-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:45:14-51
+51        <package android:name="com.sbi.upi" />
+51-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:46:5-43
+51-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:46:14-40
+52        <package android:name="com.truecaller" />
+52-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:47:5-46
+52-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:47:14-43
+53        <package android:name="com.fss.unbipsp" />
+53-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:48:5-47
+53-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:48:14-44
+54        <package android:name="com.fss.vijayapsp" />
+54-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:49:5-49
+54-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:49:14-46
+55        <package android:name="com.YesBank" />
+55-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:50:5-43
+55-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:50:14-40
+56    </queries>
+57
+58</manifest>

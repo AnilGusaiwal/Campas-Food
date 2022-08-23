@@ -1,0 +1,2 @@
+com/drenther/upi_pay/BuildConfig.java
+ com.drenther.upi_pay.BuildConfig

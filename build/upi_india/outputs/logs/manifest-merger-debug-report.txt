@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:3:3-8:13
+intent#action:name:android.intent.action.VIEW+data:scheme:upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:4:5-7:14
+action#android.intent.action.VIEW
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:5:7-59
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:5:15-56
+data
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:6:7-36
+	android:scheme
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:6:13-33
+uses-sdk
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml
+package#com.lcode.allahabadupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:10:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:10:14-51
+package#in.amazon.mShop.android.shopping
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:11:14-61
+package#com.upi.axispay
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:12:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:12:14-44
+package#com.bankofbaroda.upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:13:5-52
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:13:14-49
+package#in.org.npci.upiapp
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:14:5-50
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:14:14-47
+package#com.infra.boiupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:15:5-48
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:15:14-45
+package#com.infrasofttech.centralbankupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:16:14-61
+package#in.cointab.app
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:17:5-46
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:17:14-43
+package#com.lcode.corpupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:18:5-49
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:18:14-46
+package#com.lcode.csbupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:19:5-48
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:19:14-45
+package#com.cub.wallet.gui
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:20:5-50
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:20:14-47
+package#com.dbs.in.digitalbank
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:21:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:21:14-51
+package#com.olive.dcb.upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:22:5-49
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:22:14-46
+package#com.equitasbank.upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:23:5-51
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:23:14-48
+package#com.finopaytech.bpayfino
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:24:5-56
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:24:14-53
+package#com.freecharge.android
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:25:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:25:14-51
+package#com.google.android.apps.nbu.paisa.user
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:26:14-67
+package#com.mgs.hsbcupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:27:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:27:14-44
+package#com.csam.icici.bank.imobile
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:28:5-59
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:28:14-56
+package#com.mgs.induspsp
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:29:5-48
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:29:14-45
+package#com.lcode.smartz
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:30:5-48
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:30:14-45
+package#com.khaalijeb.inkdrops
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:31:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:31:14-51
+package#com.msf.kbank.mobile
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:32:5-52
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:32:14-49
+package#com.infrasofttech.mahaupi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:33:14-54
+package#com.mipay.in.wallet
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:34:5-51
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:34:14-48
+package#com.mipay.wallet.in
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:35:5-51
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:35:14-48
+package#com.mobikwik_new
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:36:5-48
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:36:14-45
+package#com.mgs.obcbank
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:37:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:37:14-44
+package#net.one97.paytm
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:38:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:38:14-44
+package#com.idbibank.paywiz
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:39:5-51
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:39:14-48
+package#com.enstage.wibmo.hdfc
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:40:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:40:14-51
+package#com.phonepe.app
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:41:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:41:14-44
+package#com.fss.pnbpsp
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:42:5-46
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:42:14-43
+package#com.mobileware.upipsb
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:43:5-53
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:43:14-50
+package#com.rblbank.upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:44:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:44:14-44
+package#com.realmepay.payments
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:45:5-54
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:45:14-51
+package#com.sbi.upi
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:46:5-43
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:46:14-40
+package#com.truecaller
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:47:5-46
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:47:14-43
+package#com.fss.unbipsp
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:48:5-47
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:48:14-44
+package#com.fss.vijayapsp
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:49:5-49
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:49:14-46
+package#com.YesBank
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:50:5-43
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\upi_india-3.0.1\android\src\main\AndroidManifest.xml:50:14-40
