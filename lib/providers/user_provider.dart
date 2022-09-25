@@ -9,6 +9,7 @@ class UserProvider with ChangeNotifier {
     required String userImage,
     required String userEmail,
     required String type,
+    required String idToken,
   }) async {
     await FirebaseFirestore.instance
         .collection("usersData")
@@ -19,7 +20,8 @@ class UserProvider with ChangeNotifier {
       "userEmial": userEmail,
       "userImage": userImage,
       "userUid": currentUser.uid,
-      "type": type
+      "type": type,
+      "idToken":idToken
     });
   }
 }

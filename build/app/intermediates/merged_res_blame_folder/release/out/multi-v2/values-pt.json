@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\16ec84302882b27ebcf260fb1420841f\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,170,269,381",
-                        "endColumns": "114,98,111,105",
-                        "endOffsets": "165,264,376,482"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\57b9013edc760231da96c3dff4f7e29a\\transformed\\core-1.7.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "487",
                         "endColumns": "100",
                         "endOffsets": "583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\781b7adaae2718d8c38ac073a713aee7\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
                     }
                 }
             ]

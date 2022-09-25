@@ -5,6 +5,7 @@ import 'dart:math';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:upi_pay/upi_pay.dart';
@@ -44,10 +45,14 @@ class _ScreenState extends State<UpiPayment> {
 
   bool _isUpiEditable = false;
   List<ApplicationMeta>? _apps;
-
+   String? idToken ;
   @override
   void initState() {
     super.initState();
+    
+    FirebaseMessaging.instance.getToken().then((newToken) {
+      idToken = newToken;
+    });
     reviewCardProvider = Provider.of(context, listen: false);
     reviewCardProvider.getReviewCartData();
 
@@ -115,7 +120,7 @@ class _ScreenState extends State<UpiPayment> {
           <String, dynamic>{
             'notification': <String, dynamic>{
               'body': body,
-              'title': title,
+              'title': "NeatRoot",
             },
             'priority': 'high',
             'data': <String, dynamic>{
@@ -124,6 +129,7 @@ class _ScreenState extends State<UpiPayment> {
               'status': 'done'
             },
             "to": token,
+            
           },
         ),
       );
@@ -142,7 +148,6 @@ class _ScreenState extends State<UpiPayment> {
   //     _launchURL(txt);
   //   }
   // }
-
   // var _url = "https://api.whatsapp.com/send?phone=919587691547";
   // void _launchURL(txt) async => await canLaunch(_url + "tx")
   //     ? await launch(_url + txt).then((value) {
@@ -261,22 +266,13 @@ class _ScreenState extends State<UpiPayment> {
             children: <Widget>[
               Center(
                 child: TextButton(
-                    onPressed: ()  {
-                       FirebaseFirestore.instance
-                          .collection("usersData")
-                          .where("type", isEqualTo: "Restaurant")
-                          .get()
-                          .then((value) {
-                        var ddd = value.docs;
-                        ddd.forEach((element) {
-                          var dd = element.data();
-                          print(dd["device_token"]);
+                    onPressed: () { 
                           sendPushMessage(
                               "new order From ${_upiAddressController.text}",
                               "Compass Order",
-                              dd["device_token"]);
-                        });
-                      });
+                              "dRN-Mv6UR_WN6g8vIgXYP9:APA91bFuj0GAAawNQZ32c5fBzrROiKCsmUAc1V4NrWKLZSs4Ofc-usC-WCTaGobj63hOpp-Zu_lofUogSarjUNllohXnflHBNbSGQOE9LQUj_Lrzws2J8OWPhx4ZlnwTF5F6s0E1rXlp");
+                        
+                     
 
                       print('Transaction Successful');
                     },

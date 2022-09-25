@@ -137,7 +137,9 @@ class _Drawer_pageState extends State<Drawer_page> {
             Icons.rate_review_outlined,
             'Suggestion',
             () {
-               _launchInBrowser(toLaunch);
+              // Navigator.of(context)
+              //     .push(MaterialPageRoute(builder: (context) => MyHomePage()));
+              //  _launchInBrowser(toLaunch);
             },
           ),
           listTile(

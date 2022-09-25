@@ -1,18 +1,18 @@
 [
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\flutter_share\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\6f6da31ded36fd59bf0fb59f8c9437af\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\flutter_share\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\6f6da31ded36fd59bf0fb59f8c9437af\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\flutter_share\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\6f6da31ded36fd59bf0fb59f8c9437af\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\flutter_share\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\6f6da31ded36fd59bf0fb59f8c9437af\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\fe160dfcf0f914b286c226cecc25b15b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

@@ -11,6 +11,7 @@ import 'package:zometo/items/singal_product.dart';
 import 'DrawerPages/drawer_page.dart';
 import 'models/product_model.dart';
 import 'search/search2.dart';
+import 'package:firebase_storage/firebase_storage.dart';
 
 class Home_Screen3 extends StatefulWidget {
   @override
@@ -151,7 +152,7 @@ class _Home_Screen3State extends State<Home_Screen3> {
         title: Row(
           crossAxisAlignment: CrossAxisAlignment.end,
           children: [
-            Text('NeatRoot', style: TextStyle(color: Colors.black87,fontSize:24 )),
+            Text('DineEasy', style: TextStyle(color: Color.fromARGB(221, 47, 13, 13),fontSize:24 )),
             Text('Order Now', style: TextStyle(color: Colors.black87,fontSize:12 )),
           ],
         ),

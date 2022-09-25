@@ -1,18 +1,18 @@
 [
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\share_plus\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\57b9013edc760231da96c3dff4f7e29a\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\share_plus\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\57b9013edc760231da96c3dff4f7e29a\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\share_plus\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\57b9013edc760231da96c3dff4f7e29a\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\share_plus\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\57b9013edc760231da96c3dff4f7e29a\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

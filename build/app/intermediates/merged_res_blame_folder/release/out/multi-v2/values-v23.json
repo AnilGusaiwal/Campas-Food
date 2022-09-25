@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-2\\files-2.1\\d28cfba3c435bad7a1a76d9c940ca3af\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\d80456f057226891d7b80bfe7751d7ea\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

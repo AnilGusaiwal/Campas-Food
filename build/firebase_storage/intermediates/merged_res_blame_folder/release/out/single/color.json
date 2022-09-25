@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\71420d1dbf4a6f6999b62ee589e9d99a\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\71420d1dbf4a6f6999b62ee589e9d99a\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\anilg\\AndroidStudioProjects\\Campas Food\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\anilg\\.gradle\\caches\\transforms-3\\71420d1dbf4a6f6999b62ee589e9d99a\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

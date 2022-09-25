@@ -135,13 +135,13 @@
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.4.3",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_core_web",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.6",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.2",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -160,6 +160,24 @@
     {
       "name": "firebase_messaging_web",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-2.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_storage",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_storage_platform_interface",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_platform_interface-4.1.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_storage_web",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.3.5",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -560,7 +578,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-08-23T21:29:40.256913Z",
+  "generated": "2022-09-04T13:37:59.012606Z",
   "generator": "pub",
   "generatorVersion": "2.17.1"
 }
